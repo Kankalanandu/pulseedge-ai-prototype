@@ -480,7 +480,6 @@ if (systolic >= 140 || diastolic >= 90) {
 return "ROUTINE";
 ```
 
-This lets an evaluator understand exactly why the demonstration case produces its result.
 
 ---
 
